@@ -4,6 +4,7 @@ I want to eventually build this out into a hub for linking to my other projects.
 
 ## Composing Digital Media
 
+* [2021 Spring](https://benmiller314.github.io/cdm2021spring)
 * [2020 Fall](https://benmiller314.github.io/cdm2020fall)
 * [2020 Spring](https://benmiller314.github.io/cdm2020spring)
   - [Soundscape Narrative assignment](https://github.com/benmiller314/soundscape2020spring#project-1-soundscape-narrative)
