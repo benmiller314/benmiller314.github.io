@@ -12,7 +12,7 @@ I want to eventually build this out into a hub for linking to my other projects.
   - [Website Portfolio assignment](https://github.com/benmiller314/website-portfolio-2020spring#project-3-website-portfolio)
 * [2019 Fall](https://benmiller314.github.io/cdm2019fall)
 
-I do teach other things, and I've written things, too, but, as I said – more site building still to come!
+I do teach other things (including Writing With Data, Writing With Style, and seminars in Composition and Pedagogy), and I've [written](https://fourwaybooks.com/site/compass/) [things](https://upittpress.org/books/9780822946748/), [too](https://scholar.google.com/citations?hl=en&user=7loZEGEAAAAJ), but, as I said – more site building still to come!
 
 For the curious, you can also see my previous / current personal site, [majoringinmeta.net](https://majoringinmeta.net). 
 
